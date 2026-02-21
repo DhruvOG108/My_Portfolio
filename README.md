@@ -19,6 +19,3 @@ A dynamic, responsive personal portfolio website built with Python (Flask), HTML
    ```bash
    git clone https://github.com/your-username/my-portfolio.git
    cd my-portfolio# Portfolio770
-# Portfolio770
-# Portfolio770
-# Portfolio770
